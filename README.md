@@ -3,8 +3,7 @@ This college query chatbot was built with RASA, an open-source machine-learning 
 
 ## How to run the project:
 
-Step 1: Install or upgrade the Python version above 3.10 if your system doesn't have Python.
-
+Step 1: Install or upgrade the Python version above 3.10 if your system doesn't have Python. "/n"
 Step 2: Open your code editor's terminal and create a virtual environment in your desired folder using the command: python -m venv ./venv.
 Step 3. Activate the virtual environment by using the command: .\venv\Scripts\activate.
 Step 4. Install the rasa library by the command: pip install rasa.
